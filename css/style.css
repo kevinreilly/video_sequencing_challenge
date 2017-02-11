@@ -128,6 +128,9 @@ img {
 	background:#4990E2;
 	color:#fff;
 }
+.challenge .video__wrapper .video__timeline.video__timeline--complete .slot {
+	opacity:0.5;
+}
 .challenge .video__wrapper .video__timeline.video__timeline--complete > div .slot.slot--correct {
 	background:#8CC30E;
 	color:#fff;
